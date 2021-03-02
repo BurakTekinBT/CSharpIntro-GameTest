@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlIntro", "SqlIntro\SqlIntro.csproj", "{A96D5FE1-7484-4B1B-AE5F-3C196F1F2E54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{E133FBCC-44A1-41FF-AAD6-BA94EF35DE95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A96D5FE1-7484-4B1B-AE5F-3C196F1F2E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96D5FE1-7484-4B1B-AE5F-3C196F1F2E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96D5FE1-7484-4B1B-AE5F-3C196F1F2E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96D5FE1-7484-4B1B-AE5F-3C196F1F2E54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E133FBCC-44A1-41FF-AAD6-BA94EF35DE95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E133FBCC-44A1-41FF-AAD6-BA94EF35DE95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E133FBCC-44A1-41FF-AAD6-BA94EF35DE95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E133FBCC-44A1-41FF-AAD6-BA94EF35DE95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA93A6D8-0D13-4650-8FAF-01598141A410}
+	EndGlobalSection
+EndGlobal
